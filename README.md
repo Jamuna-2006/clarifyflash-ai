@@ -36,7 +36,7 @@ Type the topic name in the **Enter Topic (English)** input box.
 ### Step 3: Apply Topic
 After typing the topic, press the **Enter** key on the keyboard to apply the topic and generate results.
 
-![Desktop Home Page](desktop_home_page.png)
+![Desktop Home Page](desktop_home_page.png.jpg)
 
 
    
@@ -47,7 +47,7 @@ On mobile devices, the sidebar is hidden by default to keep the interface clean.
 ### Step 1: Open Sidebar
 Tap the `<<` icon at the top-left corner to open the sidebar.
 
-![Mobile Home](mobile_home_page)
+![Mobile Home](mobile_home_page.jpeg)
 
 ### Step 2: Enter Topic
 Once the sidebar is open:
@@ -55,7 +55,7 @@ Once the sidebar is open:
 - Enter the topic in the input box
 - Press the **Enter** key on the mobile keyboard to apply
 
-![Mobile Sidebar](mobile_home_page2)
+![Mobile Sidebar](mobile_home_page2.jpeg)
 
 > Note: On mobile devices, pressing the Enter key on the keyboard is required to submit the topic.
 
